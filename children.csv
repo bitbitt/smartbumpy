@@ -1,0 +1,6 @@
+id,user_id,name,birth_date,gender,is_premature,birth_weight,birth_height,head_circumference,upper_arm_circumference,has_allergies,mother_height,father_height,photo_url,created_at,updated_at
+7c9e6679-7425-40de-944b-e07fc1f90ae7,550e8400-e29b-41d4-a716-446655440000,Andi,2022-05-10,Laki-laki,false,3.2,50.5,34.2,10.5,false,165,178,,2023-01-15T09:00:00Z,2023-01-15T09:00:00Z
+6fa459ea-ee8a-3ca4-894e-db77e160355e,550e8400-e29b-41d4-a716-446655440000,Budi,2023-02-15,Laki-laki,true,2.8,48.0,32.5,9.8,true,165,178,,2023-02-16T11:30:00Z,2023-02-16T11:30:00Z
+3e7c3f6d-bdf5-46ae-8d90-171300f27ae2,f47ac10b-58cc-4372-a567-0e02b2c3d479,Citra,2022-11-20,Perempuan,false,3.5,52.0,35.0,11.0,false,160,175,,2023-01-16T12:00:00Z,2023-01-16T12:00:00Z
+a3c65c2b-9edb-4a0b-a74f-06a4f30fffbc,6ba7b810-9dad-11d1-80b4-00c04fd430c8,Dina,2023-03-05,Perempuan,false,3.1,49.5,33.8,10.2,true,158,180,,2023-03-06T15:45:00Z,2023-03-06T15:45:00Z
+
