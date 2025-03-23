@@ -21,6 +21,9 @@ SmartBump adalah aplikasi inovatif berbasis AI yang dirancang untuk membantu ibu
 
 Tautan website SmartBump: https://smartbump.netlify.app/
 Anda dapat mengakses SmartBump dengan membuat akun baru (pastikan akun Anda benar-benar aktif karena ada tahap verifikasi yang akan dikirimkan melalui email)
+
 Anda juga dapat mengakses dengan akun yang kami telah buat:
+
 Email: ngaroyotos@gmail.com
+
 Password: abcdefg
